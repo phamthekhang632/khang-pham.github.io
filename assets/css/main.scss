@@ -14,28 +14,59 @@ search: false
   }
   
   .box {
-    border: 1px solid #ddd;
-    padding: 15px;
-    text-align: center;
-    transition: all 0.3s ease-in-out;
+    display: flex;
+    background-color: white;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out, transform 0.3s ease-in-out;
+    margin: 20px 0;
   }
   
   .box:hover {
-    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
   }
   
-  .box img {
+  .box-image {
+    flex: 0 0 50%; /* This makes the image take up half of the box width */
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .box-image img {
     width: 100%;
-    height: auto;
+    height: 100%;
+    object-fit: cover; /* Ensures the image covers the entire area while maintaining aspect ratio */
+    border-right: 5px solid #fff; /* Creates a small white border on the right */
+  }
+  
+  .box-content {
+    flex: 1; /* Makes the content take the remaining width */
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
   }
   
   .box h3 {
-    font-size: 1.5em;
-    margin: 10px 0;
+    margin: 0;
+    font-size: 1.8em;
   }
   
   .box p {
     font-size: 1em;
     color: #555;
   }
+  
+  .row {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .col-md-6 {
+    flex: 0 0 48%; /* Makes sure two boxes fit on one row with space between them */
+  }
+  
   

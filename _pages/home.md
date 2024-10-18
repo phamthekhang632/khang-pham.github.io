@@ -39,30 +39,37 @@ Currenlty, my interests lie in guidance navigation and control (GNC), robotics, 
 <div class="container">
   <div class="row">
     <!-- First Box -->
-    <div class="col-md-4">
+    <div class="col-md-6">
       <a href="{{ site.baseurl }}/about/">
-        <div class="box" style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-          <img src="{{ site.baseurl }}/assets/images/about-thumbnail.jpg" alt="About Me" style="width: 100%;">
-          <h3>About Me</h3>
-          <p>Learn more about who I am and what I do.</p>
+        <div class="box">
+          <div class="box-image">
+            <img src="{{ site.baseurl }}/assets/images/about-thumbnail.jpg" alt="About Me">
+          </div>
+          <div class="box-content">
+            <h3>About Me</h3>
+            <p>Learn more about who I am and what I do.</p>
+          </div>
         </div>
       </a>
     </div>
 
     <!-- Second Box -->
-    <div class="col-md-4">
+    <div class="col-md-6">
       <a href="{{ site.baseurl }}/projects/">
-        <div class="box" style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-          <img src="{{ site.baseurl }}/assets/images/projects-thumbnail.jpg" alt="Projects" style="width: 100%;">
-          <h3>Projects</h3>
-          <p>Check out my recent work and projects.</p>
+        <div class="box">
+          <div class="box-image">
+            <img src="{{ site.baseurl }}/assets/images/projects-thumbnail.jpg" alt="Projects">
+          </div>
+          <div class="box-content">
+            <h3>Projects</h3>
+            <p>Check out my recent work and projects.</p>
+          </div>
         </div>
       </a>
     </div>
-
-    <!-- Add more boxes as needed -->
   </div>
 </div>
+
 
 <a href="{{ site.baseurl }}/about/">
 
