@@ -50,14 +50,14 @@ Currently, my interests lie in guidance navigation and control (GNC), robotics, 
   <div class="row">
     <!-- Projects Box -->
     <div class="col-md-6">
-      <a href="{{ site.baseurl }}/XPRIZE Rainforest Competition/">
+      <a href="{{ site.baseurl }}/xprize/">
         <div class="box">
           <div class="box-image">
             <img src="{{ site.baseurl }}/assets/images/xprize_2.JPG" alt="XPRIZE Rainforest">
           </div>
           <div class="box-content">
             <h3>XPRIZE</h3>
-            <p>A custom-built autonomous water sampling drone.</p>
+            <p>A $10 million global competition to rapidly survey the rainforests.</p>
           </div>
         </div>
       </a>
