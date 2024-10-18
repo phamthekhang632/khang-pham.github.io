@@ -66,6 +66,26 @@ Currently, my interests lie in guidance navigation and control (GNC), robotics, 
 </div>
 <a href="{{ site.baseurl }}/xprize/">
 
+<div class="container">
+  <div class="row">
+    <!-- Projects Box -->
+    <div class="col-md-6">
+      <a href="{{ site.baseurl }}/ehawk/">
+        <div class="box">
+          <div class="box-image">
+            <img src="{{ site.baseurl }}/assets/images/xprize_1.JPG" alt="ehawk">
+          </div>
+          <div class="box-content">
+            <h3>EHawk</h3>
+            <p>An electric airplane.</p>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+<a href="{{ site.baseurl }}/ehawk/">
+
 ## Links
 
 - [XPRIZE Rainforest Competition](https://www.iit.edu/news/team-led-illinois-tech-professor-returns-amazon-after-competing-xprize-rainforest-finals)
