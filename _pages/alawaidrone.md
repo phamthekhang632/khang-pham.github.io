@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "New Project"
-permalink: /new-project/
+title: "Ala Wai Drone"
+permalink: /alawaidrone/
 author_profile: true
 classes: wide
 ---
 
 <div style="text-align: center;">
-  <img src="{{ site.baseurl }}/assets/images/alawaidrone1.png" alt="New Project Image" style="max-width: 100%; height: auto; border-radius: 15px;">
+  <img src="{{ site.baseurl }}/assets/images/alawaidrone_1.png" alt="New Project Image" style="max-width: 100%; height: auto; border-radius: 15px;">
 </div>
 
 # New Project
@@ -37,24 +37,6 @@ The Ala Wai Drone is a custom designed and built autonomous water sampling drone
         </div>
       </a>
     </div>
-
-    <!-- Second Box -->
-    <div class="col-md-6">
-      <a href="{{ site.baseurl }}/related-project-2/">
-        <div class="box">
-          <div class="box-image">
-            <img src="{{ site.baseurl }}/assets/images/related-project-2-thumbnail.jpg" alt="Related Project 2">
-          </div>
-          <div class="box-content">
-            <h3>Related Project 2</h3>
-            <p>Explore the details of this project.</p>
-          </div>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
-
 
 <div style="text-align: center; margin-top: 30px;">
   <a href="{{ site.baseurl }}/" class="btn btn-home">Back to Home</a>

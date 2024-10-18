@@ -33,7 +33,7 @@ Currently, my interests lie in guidance navigation and control (GNC), robotics, 
       <a href="{{ site.baseurl }}/Ala Wai Drone/">
         <div class="box">
           <div class="box-image">
-            <img src="{{ site.baseurl }}/assets/images/alawaidrone1.png" alt="Projects">
+            <img src="{{ site.baseurl }}/assets/images/alawaidrone_1.png" alt="Projects">
           </div>
           <div class="box-content">
             <h3>Projects</h3>
@@ -44,7 +44,7 @@ Currently, my interests lie in guidance navigation and control (GNC), robotics, 
     </div>
   </div>
 </div>
-<a href="{{ site.baseurl }}/projects/">
+<a href="{{ site.baseurl }}/alawaidrone/">
 
 | August 2019 | Ala Wai Water Sampling Drone [Google Science Fair](https://docs.google.com/document/d/1FGzSfnp2zuVKmPPtwzLVtMwds_XQvdzqqtjjxj53nM0/edit?usp=sharing). |
 
