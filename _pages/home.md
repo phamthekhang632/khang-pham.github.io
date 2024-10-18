@@ -36,7 +36,7 @@ Currently, my interests lie in guidance navigation and control (GNC), robotics, 
             <img src="{{ site.baseurl }}/assets/images/alawaidrone_1.png" alt="Ala Wai Drone">
           </div>
           <div class="box-content">
-            <h3>Projects</h3>
+            <h3>Ala Wai Drone</h3>
             <p>A custom-built autonomous water sampling drone.</p>
           </div>
         </div>
@@ -45,6 +45,26 @@ Currently, my interests lie in guidance navigation and control (GNC), robotics, 
   </div>
 </div>
 <a href="{{ site.baseurl }}/alawaidrone/">
+
+<div class="container">
+  <div class="row">
+    <!-- Projects Box -->
+    <div class="col-md-6">
+      <a href="{{ site.baseurl }}/XPRIZE Rainforest Competition/">
+        <div class="box">
+          <div class="box-image">
+            <img src="{{ site.baseurl }}/assets/images/xprize_2.JPG" alt="XPRIZE Rainforest">
+          </div>
+          <div class="box-content">
+            <h3>XPRIZE</h3>
+            <p>A custom-built autonomous water sampling drone.</p>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+<a href="{{ site.baseurl }}/xprize/">
 
 ## Links
 
