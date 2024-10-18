@@ -16,7 +16,7 @@ Currenlty, my interests lie in guidance navigation and control (GNC), robotics, 
 ## Experience
 
 | --- | --- | --- |
-# | When? | What? | Where? |
+| When? | What? | Where? |
 | Spring 2023 - Present | Graduate Research Assistant | CARNATIONS
 | Summer 2024 | Perception & Embedded Machine Learning Intern | Draper Laboratory
 | Summer 2023 | ISS Payload Integration Intern | Boeing / NASA-contractor
