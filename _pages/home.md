@@ -15,13 +15,13 @@ Currenlty, my interests lie in guidance navigation and control (GNC), robotics, 
 
 ## Experience
 
-| --- | --- |
-| Spring 2020 - Fall 2022 | IdeaShop
-| Summer 2021 | Dimension Inx
-| Summer 2022 | Boeing
-| Summer 2023 | Boeing / NASA-contractor
-| Summer 2024 | Draper Laboratory
-| Spring 2023 - Present | CARNATIONS
+| --- | --- | --- |
+| Spring 2023 - Present | Graduate Research Assistant | CARNATIONS
+| Summer 2024 | Perception & Embedded Machine Learning Intern | Draper Laboratory
+| Summer 2023 | ISS Payload Integration Intern | Boeing / NASA-contractor
+| Summer 2022 | Structural Design Engineering Intern | Boeing
+| Summer 2021 - Fall 2022 | Project Engineering Intern | Dimension Inx
+| Spring 2020 - Fall 2022 | Prototyping Lab Mentor | Kaplan Institute's IdeaShop
 
 ## Projects
 
@@ -29,6 +29,7 @@ Currenlty, my interests lie in guidance navigation and control (GNC), robotics, 
 
 ## Links
 
+- [XPRIZE Rainforest Competition](https://www.iit.edu/news/team-led-illinois-tech-professor-returns-amazon-after-competing-xprize-rainforest-finals)
 - [2024 Brooke Owens Fellow](https://www.brookeowensfellowship.org/naia-lum)
-- [Duchossois Leadership Scholars](https://sites.google.com/hawk.iit.edu/duchossois-leadership-scholars)\
+- [Duchossois Leadership Scholar](https://sites.google.com/hawk.iit.edu/duchossois-leadership-scholars)
 - [Leadership Academy Scholar](https://www.iit.edu/leadership-studies/ma-and-lila-self-leadership-academy/scholars)
