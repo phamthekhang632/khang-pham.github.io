@@ -6,25 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-<div class="container">
-  <div class="row">
-    <!-- Projects Box -->
-    <div class="col-md-6">
-      <a href="{{ site.baseurl }}/projects/">
-        <div class="box">
-          <div class="box-image">
-            <img src="{{ site.baseurl }}/assets/images/projects-thumbnail.jpg" alt="Projects">
-          </div>
-          <div class="box-content">
-            <h3>Projects</h3>
-            <p>Check out my recent work and projects.</p>
-          </div>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
-
 ## A Little About Me
 
 Hello! I am a 5th year student at the Illinois Institute of Technology where I'm pursuing a B.S. in Mechanical Engineering and a M.S. in Autonomous Systems and Robotics. I've been able to have diverse experiences through multiple industry internships, side projects, and research experiences. I'm looking to contribute to aerospace science and interesting robotics problems!
@@ -44,6 +25,25 @@ Currently, my interests lie in guidance navigation and control (GNC), robotics, 
 
 ## Projects
 
+
+<div class="container">
+  <div class="row">
+    <!-- Projects Box -->
+    <div class="col-md-6">
+      <a href="{{ site.baseurl }}/Ala Wai Drone/">
+        <div class="box">
+          <div class="box-image">
+            <img src="{{ site.baseurl }}/assets/images/alawaidrone1" alt="Projects">
+          </div>
+          <div class="box-content">
+            <h3>Projects</h3>
+            <p>Check out my recent work and projects.</p>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
 <a href="{{ site.baseurl }}/projects/">
 
 | August 2019 | Ala Wai Water Sampling Drone [Google Science Fair](https://docs.google.com/document/d/1FGzSfnp2zuVKmPPtwzLVtMwds_XQvdzqqtjjxj53nM0/edit?usp=sharing). |
