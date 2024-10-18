@@ -29,7 +29,7 @@ search: false
   }
   
   .box-image {
-    flex: 0 0 50%; /* This makes the image take up half of the box width */
+    flex: 0 0 50%; /* Image takes up half the box width */
     overflow: hidden;
     position: relative;
   }
@@ -37,12 +37,12 @@ search: false
   .box-image img {
     width: 100%;
     height: 100%;
-    object-fit: cover; /* Ensures the image covers the entire area while maintaining aspect ratio */
-    border-right: 5px solid #fff; /* Creates a small white border on the right */
+    object-fit: cover;
+    border-right: 5px solid #fff; /* Add white border on the right of the image */
   }
   
   .box-content {
-    flex: 1; /* Makes the content take the remaining width */
+    flex: 1; /* Text content takes remaining width */
     padding: 20px;
     display: flex;
     flex-direction: column;
@@ -66,7 +66,6 @@ search: false
   }
   
   .col-md-6 {
-    flex: 0 0 48%; /* Makes sure two boxes fit on one row with space between them */
+    flex: 0 0 100%; /* Box takes full width for now */
   }
-  
   
