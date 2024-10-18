@@ -33,7 +33,7 @@ Currently, my interests lie in guidance navigation and control (GNC), robotics, 
       <a href="{{ site.baseurl }}/Ala Wai Drone/">
         <div class="box">
           <div class="box-image">
-            <img src="{{ site.baseurl }}/assets/images/alawaidrone1" alt="Projects">
+            <img src="{{ site.baseurl }}/assets/images/alawaidrone1.png" alt="Projects">
           </div>
           <div class="box-content">
             <h3>Projects</h3>

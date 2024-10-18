@@ -69,3 +69,30 @@ search: false
     flex: 0 0 100%; /* Box takes full width for now */
   }
   
+
+
+  /* Button styling */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #007bff;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .btn-home {
+    background-color: #28a745; /* Customize the color for the home button */
+  }
+  
+  .btn-home:hover {
+    background-color: #218838;
+  }
+  
