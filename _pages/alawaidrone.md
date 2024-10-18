@@ -16,7 +16,7 @@ Welcome to the new project page! Here's an overview of what this project is abou
 
 ## A little bbout the Project
 
-The Ala Wai Drone is a custom designed and built autonomous water sampling drone. I created 3 fully working iterations of this project, building up mechanical and way-point setting capabilities. Currently, biology researchers in Honolulu, HI use this project to remotely collect water samples in heavily polluted bodies of water, starting with the Ala Wai Canal. I submitted this project in the Google Science Fair in 2019 and won for the state of Hawaii. 
+The Ala Wai Drone is a custom designed and built autonomous water sampling drone. I created 3 fully working iterations of this project, building up mechanical and way-point setting capabilities. Currently, biology researchers in Honolulu, HI use this project to remotely collect water samples in heavily polluted bodies of water, starting with the Ala Wai Canal. I submitted this project in the [Google Science Fair](https://docs.google.com/document/d/1FGzSfnp2zuVKmPPtwzLVtMwds_XQvdzqqtjjxj53nM0/edit?usp=sharing) in 2019 and won for the state of Hawaii. 
 
 
 ## Related Projects
