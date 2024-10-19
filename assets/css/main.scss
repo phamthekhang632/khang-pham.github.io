@@ -49,27 +49,6 @@ search: false
     justify-content: center;
     text-align: left;
   }
-  
-  .box h3 {
-    margin: 0;
-    font-size: 1.8em;
-  }
-  
-  .box p {
-    font-size: 1em;
-    color: #555;
-  }
-  
-  .row {
-    display: flex;
-    justify-content: space-between;
-  }
-  
-  .col-md-6 {
-    flex: 0 0 100%; /* Box takes full width for now */
-  }
-  
-
 
   /* Button styling */
 .btn {
@@ -78,38 +57,23 @@ search: false
     font-size: 16px;
     font-weight: bold;
     color: white;
-    background-color: #007bff;
+    background-color: #aa82c8;
     border-radius: 5px;
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
   
   .btn:hover {
-    background-color: #0056b3;
+    background-color: #9856ca;
   }
   
   .btn-home {
-    background-color: #28a745; /* Customize the color for the home button */
+    background-color: #aa82c8; /* Customize the color for the home button */
   }
   
   .btn-home:hover {
-    background-color: #218838;
+    background-color: #9856ca;
   }
-
-
-/* Ensure the main content area has consistent margins and is centered */
-.container {
-  max-width: 1200px; /* Adjust this value for your desired content width */
-  margin: 0 auto;
-  padding: 20px; /* Adds padding inside the content area */
-}
-
-/* Sidebar styling for the bio */
-.sidebar {
-  float: left;
-  width: 25%; /* Adjust the width as needed for your sidebar */
-  padding-right: 20px;
-}
 
 /* Scrollable gallery container with max-width */
 .scrollable-gallery {
