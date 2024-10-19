@@ -96,3 +96,30 @@ search: false
     background-color: #218838;
   }
   
+
+  .gallery-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Adjust the size of each item */
+    gap: 20px; /* Space between gallery items */
+    margin-top: 30px;
+  }
+  
+  .gallery-item {
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .gallery-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .gallery-description {
+    margin-top: 10px;
+    font-size: 1em;
+    color: #555;
+  }
