@@ -157,7 +157,7 @@ search: false
 .scrollable-gallery {
   display: flex;
   overflow-x: auto; /* Enables horizontal scrolling */
-  gap: 10px; /* Space between the images */
+  gap: 20px; /* Space between the images */
   padding: 10px;
   scroll-snap-type: x mandatory; /* Optional: Snap scrolling to each image */
 }
@@ -165,7 +165,7 @@ search: false
 /* Individual gallery items */
 .gallery-item {
   flex: none; /* Ensures each item keeps its size */
-  min-width: 300px; /* Adjust the width of each item */
+  min-width: 50px; /* Adjust the width of each item */
   border-radius: 10px; /* Optional: Adds rounded corners */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a shadow to each item */
   scroll-snap-align: start; /* Optional: Snaps to start of each item */
