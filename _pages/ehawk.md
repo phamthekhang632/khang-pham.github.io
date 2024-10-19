@@ -7,7 +7,7 @@ classes: wide
 ---
 
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="{{ site.baseurl }}/assets/images/alawaidrone_2.png" alt="Ala Wai Drone" style="max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);">
+  <img src="{{ site.baseurl }}/assets/images/ehawk_3.png" alt="ehawk" style="max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);">
 </div>
 
 # EHawk

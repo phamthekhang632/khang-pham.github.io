@@ -37,6 +37,19 @@
     </div>
   {% endif %}
 
+    <div class="container clearfix">
+      {% if page.author_profile %}
+        <div class="sidebar">
+          {% include author-profile.html %}
+        </div>
+      {% endif %}
+    
+      <div class="content">
+        {{ content }}
+      </div>
+    </div>
+  
+
     {% include scripts.html %}
   </body>
 </html>
