@@ -111,27 +111,13 @@ search: false
   padding-right: 20px;
 }
 
-/* Main content area next to the bio */
-.content {
-  float: right;
-  width: 70%; /* Adjust this width to leave space for the sidebar */
-  padding-left: 20px;
-}
-
-/* Clearfix to ensure proper layout with floating elements */
-.clearfix::after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
 /* Scrollable gallery container with max-width */
 .scrollable-gallery {
   display: flex;
   overflow-x: auto; /* Enables horizontal scrolling */
   gap: 10px; /* Space between the images */
   padding: 10px;
-  max-width: 900px; /* Adjust to control the overall gallery width */
+  max-width: 1800px; /* Adjust to control the overall gallery width */
   margin: 0 auto; /* Center the gallery on the page */
   scroll-snap-type: x mandatory; /* Optional: Snap scrolling */
 }

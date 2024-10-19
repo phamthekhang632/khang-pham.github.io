@@ -53,7 +53,7 @@ Currently, my interests lie in guidance navigation and control (GNC), robotics, 
       <a href="{{ site.baseurl }}/xprize/">
         <div class="box">
           <div class="box-image">
-            <img src="{{ site.baseurl }}/assets/images/xprize_2.JPG" alt="XPRIZE Rainforest">
+            <img src="{{ site.baseurl }}/assets/images/xprize_6.JPG" alt="XPRIZE Rainforest">
           </div>
           <div class="box-content">
             <h3>XPRIZE</h3>
@@ -73,7 +73,7 @@ Currently, my interests lie in guidance navigation and control (GNC), robotics, 
       <a href="{{ site.baseurl }}/ehawk/">
         <div class="box">
           <div class="box-image">
-            <img src="{{ site.baseurl }}/assets/images/xprize_1.JPG" alt="ehawk">
+            <img src="{{ site.baseurl }}/assets/images/ehawk_3.jpg.JPG" alt="ehawk">
           </div>
           <div class="box-content">
             <h3>EHawk</h3>
@@ -88,7 +88,7 @@ Currently, my interests lie in guidance navigation and control (GNC), robotics, 
 
 ## Links
 
-- [XPRIZE Rainforest Competition](https://www.iit.edu/news/team-led-illinois-tech-professor-returns-amazon-after-competing-xprize-rainforest-finals)
+- [XPRIZE Rainforest Competition - Welcome to the Jungle](https://www.xprize.org/prizes/rainforest/finalist-teams)
 - [2024 Brooke Owens Fellow](https://www.brookeowensfellowship.org/naia-lum)
 - [Duchossois Leadership Scholar](https://sites.google.com/hawk.iit.edu/duchossois-leadership-scholars)
 - [Leadership Academy Scholar](https://www.iit.edu/leadership-studies/ma-and-lila-self-leadership-academy/scholars)
