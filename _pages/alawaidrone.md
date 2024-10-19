@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: project
 title: "Ala Wai Drone"
 permalink: /alawaidrone/
 author_profile: true
