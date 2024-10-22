@@ -2,8 +2,8 @@
 main:
   - title: "LinkedIn"
     url: https://www.linkedin.com/in/naialum/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "About Me"
+  #    url: /aboutme/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

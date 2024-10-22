@@ -6,11 +6,11 @@ author_profile: true
 classes: wide
 ---
 
-## A Little About Me
+##  A Little About Me
 
 Hello! I am a 5th year student at the Illinois Institute of Technology where I'm pursuing a B.S. in Mechanical Engineering and a M.S. in Autonomous Systems and Robotics. I've been able to have diverse experiences through multiple industry internships, side projects, and research experiences. I'm looking to contribute to aerospace science and interesting robotics problems!
 
-Currently, my interests lie in guidance navigation and control (GNC), robotics, remote sensing, GNSS signal processing, and astrodynamics.
+Currently, my interests lie in guidance navigation and control (GNC), field robotics, remote sensing, GNSS signal processing, and astrodynamics.
 
 ## Experience
 
@@ -25,26 +25,7 @@ Currently, my interests lie in guidance navigation and control (GNC), robotics, 
 
 ## Projects
 
-
-<div class="container">
-  <div class="row">
-    <!-- Projects Box -->
-    <div class="col-md-6">
-      <a href="{{ site.baseurl }}/alawaidrone/">
-        <div class="box">
-          <div class="box-image">
-            <img src="{{ site.baseurl }}/assets/images/alawaidrone_1.png" alt="Ala Wai Drone">
-          </div>
-          <div class="box-content">
-            <h3>Ala Wai Drone</h3>
-            <p>A custom-built autonomous water sampling drone.</p>
-          </div>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
-<a href="{{ site.baseurl }}/alawaidrone/">
+While my current interests are mostly technical, I've pursued and enjoyed various interdisciplinary projects as well!
 
 <div class="container">
   <div class="row">
@@ -56,7 +37,8 @@ Currently, my interests lie in guidance navigation and control (GNC), robotics, 
             <img src="{{ site.baseurl }}/assets/images/xprize_6.JPG" alt="XPRIZE Rainforest">
           </div>
           <div class="box-content">
-            <h3>XPRIZE</h3>
+            <h3>XPRIZE Rainforest Competition</h3>
+            <p>2022-2024</p>
             <p>A $10 million global competition to rapidly survey the rainforests.</p>
           </div>
         </div>
@@ -70,13 +52,119 @@ Currently, my interests lie in guidance navigation and control (GNC), robotics, 
   <div class="row">
     <!-- Projects Box -->
     <div class="col-md-6">
+      <a href="{{ site.baseurl }}/classprojects/">
+        <div class="box">
+          <div class="box-image">
+            <img src="{{ site.baseurl }}/assets/images/projects_1.jpg" alt="course projects">
+          </div>
+          <div class="box-content">
+            <h3>Graduate Course Projects</h3>
+            <p>2023-2024</p>
+            <p>Projects in Reinforcement Learning, GNSS Spoofing, Robotics, and Space Weather.</p>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+<a href="{{ site.baseurl }}/classprojects/">
+
+<div class="container">
+  <div class="row">
+    <!-- Projects Box -->
+    <div class="col-md-6">
+      <a href="{{ site.baseurl }}/stemworkshops/">
+        <div class="box">
+          <div class="box-image">
+            <img src="{{ site.baseurl }}/assets/images/ignite.JPG" alt="stemworkshops">
+          </div>
+          <div class="box-content">
+            <h3>STEM Program Initiatives</h3>
+            <p>2017-2024</p>
+            <p>Various co-led robotics programs.</p>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+<a href="{{ site.baseurl }}/stemworkshops/">
+
+<div class="container">
+  <div class="row">
+    <!-- Projects Box -->
+    <div class="col-md-6">
+      <a href="{{ site.baseurl }}/startups/">
+        <div class="box">
+          <div class="box-image">
+            <img src="{{ site.baseurl }}/assets/images/futured.png" alt="startups">
+          </div>
+          <div class="box-content">
+            <h3>Start-Up Ventures</h3>
+            <p>2019-2022</p>
+            <p>Various co-led entrepreneurial projects.</p>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+<a href="{{ site.baseurl }}/startups/">
+
+<div class="container">
+  <div class="row">
+    <!-- Projects Box -->
+    <div class="col-md-6">
+      <a href="{{ site.baseurl }}/freelance/">
+        <div class="box">
+          <div class="box-image">
+            <img src="{{ site.baseurl }}/assets/images/tothemoon.jpg" alt="freelance">
+          </div>
+          <div class="box-content">
+            <h3>Multimedia Art Freelance</h3>
+            <p>2016-2024</p>
+            <p>Graphic designed marketing materials and designed multimedia art installations.</p>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+<a href="{{ site.baseurl }}/freelance/">
+
+<div class="container">
+  <div class="row">
+    <!-- Projects Box -->
+    <div class="col-md-6">
+      <a href="{{ site.baseurl }}/alawaidrone/">
+        <div class="box">
+          <div class="box-image">
+            <img src="{{ site.baseurl }}/assets/images/alawaidrone_1.png" alt="Ala Wai Drone">
+          </div>
+          <div class="box-content">
+            <h3>Ala Wai Drone</h3>
+            <p>2017-2020</p>
+            <p>A custom-built autonomous water sampling drone.</p>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+<a href="{{ site.baseurl }}/alawaidrone/">
+
+<div class="container">
+  <div class="row">
+    <!-- Projects Box -->
+    <div class="col-md-6">
       <a href="{{ site.baseurl }}/ehawk/">
         <div class="box">
           <div class="box-image">
-            <img src="{{ site.baseurl }}/assets/images/ehawk_3.jpg.JPG" alt="ehawk">
+            <img src="{{ site.baseurl }}/assets/images/ehawk_4.jpg" alt="ehawk">
           </div>
           <div class="box-content">
             <h3>EHawk</h3>
+            <p>2018-2020</p>
             <p>An electric airplane.</p>
           </div>
         </div>

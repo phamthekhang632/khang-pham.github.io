@@ -8,6 +8,7 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -49,6 +50,20 @@ search: false
     justify-content: center;
     text-align: left;
   }
+
+  h2 {
+    color: #aa82c8; /* Replace with your desired color */
+  }
+
+// /* Change the color of the text inside the box-content */
+// .box-content h3 {
+//   color: #aa82c8; /* Replace with your desired color for the h3 element */
+// }
+
+// .box-content p {
+//   color: #aa82c8; /* Replace with your desired color for the p elements */
+// }
+
 
   /* Button styling */
 .btn {
@@ -112,5 +127,4 @@ search: false
   color: #555;
   text-align: center; /* Centers the description text */
 }
-
 

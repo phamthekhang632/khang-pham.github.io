@@ -31,24 +31,5 @@
       </footer>
     </div>
 
-    {% if page.author_profile %}
-      <div class="sidebar">
-      {% include author-profile.html %}
-    </div>
-  {% endif %}
 
-    {% include scripts.html %}
-  </body>
-</html>
 
-<div class="container clearfix">
-  {% if page.author_profile %}
-    <div class="sidebar">
-      {% include author-profile.html %}
-    </div>
-  {% endif %}
-
-  <div class="content">
-    {{ content }}
-  </div>
-</div>
