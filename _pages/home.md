@@ -180,4 +180,5 @@ While my current interests are mostly technical, I've pursued and enjoyed variou
 - [2024 Brooke Owens Fellow](https://www.brookeowensfellowship.org/naia-lum)
 - [Duchossois Leadership Scholar](https://sites.google.com/hawk.iit.edu/duchossois-leadership-scholars)
 - [Leadership Academy Scholar](https://www.iit.edu/leadership-studies/ma-and-lila-self-leadership-academy/scholars)
+- [Project Portfolio (2020)](https://drive.google.com/file/d/1Jd8U8jRdnAhM9s3Cuu6zsNFBDxCRHWOz/view?usp=sharing)
 
