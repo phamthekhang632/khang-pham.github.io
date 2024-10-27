@@ -17,14 +17,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Title"
+title                    : "Khang Pham"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "name 1"
+name                     : ""
 description              : "description test"
-url                      : "https://khang-pham.github.io"
+url                      : "https://phamthekhang632.github.io"
 baseurl                  : # ""
-repository               : "phamthekhang632/khang-pham.github.io"
+repository               : "phamthekhang632/phamthekhang632.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # "/assets/images/88x88.JPG"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "name 2"
+  name             : "Khang Pham"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "This is bio!!"
-  location         : "Honolulu, HI"
+  bio              : "I’m a BS/MS student studying Autonomous Systems and Robotics!"
+  location         : "Chicago, IL"
   email            : "nlum@hawk.iit.edu"
   links:
     - label: "Email"
