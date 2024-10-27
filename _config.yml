@@ -17,14 +17,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Naia Lum"
+title                    : "title test"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Naia Lum"
-description              : "I'm a BS/MS student studying Autonomous Systems and Robotics!"
-url                      : "https://naiarani.github.io"
+name                     : "name test"
+description              : "description test"
+url                      : "https://khang-pham.github.io"
 baseurl                  : ""
-repository               : "naiarani/naiarani.github.io"
+repository               : "phamthekhang632/khang-pham.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # "/assets/images/88x88.JPG"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
