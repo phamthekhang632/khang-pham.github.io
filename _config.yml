@@ -17,13 +17,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "title test"
+title                    : "Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "name test"
+name                     : "name 1"
 description              : "description test"
 url                      : "https://khang-pham.github.io"
-baseurl                  : ""
+baseurl                  : # ""
 repository               : "phamthekhang632/khang-pham.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # "/assets/images/88x88.JPG"
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Naia Lum"
+  name             : "name 2"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I'm a BS/MS student studying Autonomous Systems and Robotics!"
+  bio              : "This is bio!!"
   location         : "Honolulu, HI"
   email            : "nlum@hawk.iit.edu"
   links:
