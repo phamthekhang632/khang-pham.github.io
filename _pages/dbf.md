@@ -51,7 +51,7 @@ These are some picture from the competition in 2024. Unfortunately, I lost acces
   </video> -->
 
   <div class="gallery-item">
-    <img src="{{ site.baseurl }}/assets/images/dbf_4.JPG" alt="dbf4">
+    <img src="{{ site.baseurl }}/assets/images/dbf_4.jpg" alt="dbf4">
     <p class="gallery-description">Airplane (2024).</p>
   </div>
 
@@ -61,12 +61,12 @@ These are some picture from the competition in 2024. Unfortunately, I lost acces
   </div>
 
   <div class="gallery-item">
-    <img src="{{ site.baseurl }}/assets/images/dbf_6.JPG" alt="dbf6">
+    <img src="{{ site.baseurl }}/assets/images/dbf_6.jpg" alt="dbf6">
     <p class="gallery-description">Working on the plane in hotel room (2024).</p>
   </div>
 
   <div class="gallery-item">
-    <img src="{{ site.baseurl }}/assets/images/dbf_7.JPG" alt="dbf7">
+    <img src="{{ site.baseurl }}/assets/images/dbf_7.jpg" alt="dbf7">
     <p class="gallery-description">A selfie of two other team members and me (2024).</p>
   </div>
 
