@@ -114,10 +114,10 @@ analytics:
 # Site Author
 author:
   name             : "Khang Pham"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/portrait.jpg"
   bio              : "I’m a BS/MS student studying Autonomous Systems and Robotics!"
   location         : "Chicago, IL"
-  email            : "nlum@hawk.iit.edu"
+  email            : "phamthekhang632@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

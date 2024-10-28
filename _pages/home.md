@@ -6,26 +6,34 @@ author_profile: true
 classes: wide
 ---
 
-##  A Little About Me
+##  A Little About Me
 
-Hello! I am a 5th year student at the Illinois Institute of Technology where I'm pursuing a B.S. in Mechanical Engineering and a M.S. in Autonomous Systems and Robotics. I've been able to have diverse experiences through multiple industry internships, side projects, and research experiences. I'm looking to contribute to aerospace science and interesting robotics problems!
+Hello! I am a 4th year student at the Illinois Institute of Technology where I’m pursuing a B.S. in Aerospace Engineering and a M.S. in Autonomous Systems and Robotics. Throughout my time at IIT, I am fortunate to get involve with multiple research projects, engineering competitions, and an internship. I’m looking to contribute to aerospace science and interesting robotics problems!
 
-Currently, my interests lie in guidance navigation and control (GNC), field robotics, remote sensing, GNSS signal processing, and astrodynamics.
+Currently, my interests lie in field robotics, remote sensing, and adaptive control.
 
 ## Experience
 
-| --- | --- | --- |
-| When | What | Where |
-| Spring 2023 - Present | Graduate Research Assistant | CARNATIONS
-| Summer 2024 | Perception & Embedded Machine Learning Intern | Draper Laboratory
-| Summer 2023 | ISS Payload Integration Intern | Boeing / NASA-contractor
-| Summer 2022 | Structural Design Engineering Intern | Boeing
-| Summer 2021 - Fall 2022 | Project Engineering Intern | Dimension Inx
-| Spring 2020 - Fall 2022 | Prototyping Lab Mentor | Kaplan Institute's IdeaShop
+#### Technical
+
+| What                            | Where                                 | When                     |
+| ------------------------------- | ------------------------------------- | ------------------------ |
+| Graduate Research Assistant     | Robotics Lab @ IIT                    | Fall 2024 - Present    |
+| Chief Engineer                  | Design/Build/Flight Competition @ IIT | Fall 2024 - Present      |
+| Mechanical Engineer Intern      | Starfish Space                        | Fall 2023                |
+| Project Engineer Intern         | SAI Advanced Power Solutions          | Summer 2023              |
+| Undergraduate Research Assisant | Wave Lab @ IIT                        | Fall 2022 - Spring 2023 |
+
+#### Leadership
+
+| What             | Where      | When                  |
+| ---------------- | ---------- | --------------------- |
+| President        | AIAA @ IIT | Summer 2024 - Present |
+| Resident Advisor | IIT        | Fall 2023 - Present   |
 
 ## Projects
 
-While my current interests are mostly technical, I've pursued and enjoyed various interdisciplinary projects as well!
+Here are some notes about projects I involved with over the year. If there is anything that catches your interest, please let me know, and I would be happy to chat more about it!
 
 <div class="container">
   <div class="row">
@@ -34,11 +42,11 @@ While my current interests are mostly technical, I've pursued and enjoyed variou
       <a href="{{ site.baseurl }}/xprize/">
         <div class="box">
           <div class="box-image">
-            <img src="{{ site.baseurl }}/assets/images/xprize_6.JPG" alt="XPRIZE Rainforest">
+            <img src="{{ site.baseurl }}/assets/images/xprize_6.JPG" alt="XPRIZE Rainforest" style="max-height: 300px">
           </div>
           <div class="box-content">
             <h3>XPRIZE Rainforest Competition</h3>
-            <p>2022-2024</p>
+            <p>2023-2024</p>
             <p>A $10 million global competition to rapidly survey the rainforests.</p>
           </div>
         </div>
@@ -46,139 +54,68 @@ While my current interests are mostly technical, I've pursued and enjoyed variou
     </div>
   </div>
 </div>
-<a href="{{ site.baseurl }}/xprize/">
+<!-- <a href="{{ site.baseurl }}/xprize/"> -->
+
+<!-- <div style="text-align: center; margin-bottom: 30px;">
+  <img src="{{ site.baseurl }}/assets/images/xprize_6.JPG" alt="XPRIZE Rainforest" style="max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);">
+</div> -->
 
 <div class="container">
   <div class="row">
     <!-- Projects Box -->
     <div class="col-md-6">
-      <a href="{{ site.baseurl }}/classprojects/">
+      <a href="{{ site.baseurl }}/dbf/">
         <div class="box">
           <div class="box-image">
-            <img src="{{ site.baseurl }}/assets/images/projects_1.jpg" alt="course projects">
+            <img src="{{ site.baseurl }}/assets/images/dbf_4.JPG" alt="Design/Build/Fly" style="max-height: 300px">
           </div>
           <div class="box-content">
-            <h3>Graduate Course Projects</h3>
+            <h3>AIAA Design/Build/Fly Competition</h3>
             <p>2023-2024</p>
-            <p>Projects in Reinforcement Learning, GNSS Spoofing, Robotics, and Space Weather.</p>
+            <p>An annual electric radio-controlled aircraft competition.</p>
           </div>
         </div>
       </a>
     </div>
   </div>
 </div>
-<a href="{{ site.baseurl }}/classprojects/">
 
 <div class="container">
   <div class="row">
     <!-- Projects Box -->
     <div class="col-md-6">
-      <a href="{{ site.baseurl }}/stemworkshops/">
+      <a href="{{ site.baseurl }}/gripper/">
         <div class="box">
           <div class="box-image">
-            <img src="{{ site.baseurl }}/assets/images/ignite.JPG" alt="stemworkshops">
+            <img src="{{ site.baseurl }}/assets/images/gecko_gripper-sketches.jpg" alt="Space Gripper Brainstorming" style="max-height: 300px">
           </div>
           <div class="box-content">
-            <h3>STEM Program Initiatives</h3>
-            <p>2017-2024</p>
-            <p>Various co-led robotics programs.</p>
+            <h3>Bio-inspired Space Gripper</h3>
+            <p>2023</p>
+            <p>A new space gripper design implementing gecko-like directional dry adhesive.</p>
           </div>
         </div>
       </a>
     </div>
   </div>
 </div>
-<a href="{{ site.baseurl }}/stemworkshops/">
 
 <div class="container">
   <div class="row">
     <!-- Projects Box -->
     <div class="col-md-6">
-      <a href="{{ site.baseurl }}/startups/">
+      <a href="{{ site.baseurl }}/moon-landing/">
         <div class="box">
           <div class="box-image">
-            <img src="{{ site.baseurl }}/assets/images/futured.png" alt="startups">
+            <img src="{{ site.baseurl }}/assets/images/moon-landing_environment.png" alt="XPRIZE Rainforest" style="max-height: 300px">
           </div>
           <div class="box-content">
-            <h3>Start-Up Ventures</h3>
-            <p>2019-2022</p>
-            <p>Various co-led entrepreneurial projects.</p>
+            <h3>Landing Space Shuttle using Deep Q-Learning</h3>
+            <p>2024</p>
+            <p></p>
           </div>
         </div>
       </a>
     </div>
   </div>
 </div>
-<a href="{{ site.baseurl }}/startups/">
-
-<div class="container">
-  <div class="row">
-    <!-- Projects Box -->
-    <div class="col-md-6">
-      <a href="{{ site.baseurl }}/freelance/">
-        <div class="box">
-          <div class="box-image">
-            <img src="{{ site.baseurl }}/assets/images/tothemoon.jpg" alt="freelance">
-          </div>
-          <div class="box-content">
-            <h3>Multimedia Art Freelance</h3>
-            <p>2016-2024</p>
-            <p>Graphic designed marketing materials and designed multimedia art installations.</p>
-          </div>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
-<a href="{{ site.baseurl }}/freelance/">
-
-<div class="container">
-  <div class="row">
-    <!-- Projects Box -->
-    <div class="col-md-6">
-      <a href="{{ site.baseurl }}/alawaidrone/">
-        <div class="box">
-          <div class="box-image">
-            <img src="{{ site.baseurl }}/assets/images/alawaidrone_1.png" alt="Ala Wai Drone">
-          </div>
-          <div class="box-content">
-            <h3>Ala Wai Drone</h3>
-            <p>2017-2020</p>
-            <p>A custom-built autonomous water sampling drone.</p>
-          </div>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
-<a href="{{ site.baseurl }}/alawaidrone/">
-
-<div class="container">
-  <div class="row">
-    <!-- Projects Box -->
-    <div class="col-md-6">
-      <a href="{{ site.baseurl }}/ehawk/">
-        <div class="box">
-          <div class="box-image">
-            <img src="{{ site.baseurl }}/assets/images/ehawk_4.jpg" alt="ehawk">
-          </div>
-          <div class="box-content">
-            <h3>EHawk</h3>
-            <p>2018-2020</p>
-            <p>An electric airplane.</p>
-          </div>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
-<a href="{{ site.baseurl }}/ehawk/">
-
-## Links
-
-- [XPRIZE Rainforest Competition - Welcome to the Jungle](https://www.xprize.org/prizes/rainforest/finalist-teams)
-- [2024 Brooke Owens Fellow](https://www.brookeowensfellowship.org/naia-lum)
-- [Duchossois Leadership Scholar](https://sites.google.com/hawk.iit.edu/duchossois-leadership-scholars)
-- [Leadership Academy Scholar](https://www.iit.edu/leadership-studies/ma-and-lila-self-leadership-academy/scholars)
-- [Project Portfolio (2020)](https://drive.google.com/file/d/1Jd8U8jRdnAhM9s3Cuu6zsNFBDxCRHWOz/view?usp=sharing)
-
