@@ -119,3 +119,7 @@ Here are some notes about projects I involved with over the year. If there is an
     </div>
   </div>
 </div>
+
+<div style="text-align: center; margin-top: 30px;">
+  <a href="{{ site.baseurl }}/" class="btn btn-home">Back to Home</a>
+</div>
