@@ -52,42 +52,42 @@ search: false
   }
 
   h2 {
-    color: #aa82c8; /* Replace with your desired color */
+    color: #4EA72E; /* Replace with your desired color */
   }
 
 // /* Change the color of the text inside the box-content */
 // .box-content h3 {
-//   color: #aa82c8; /* Replace with your desired color for the h3 element */
+//   color: #4EA72E; /* Replace with your desired color for the h3 element */
 // }
 
 // .box-content p {
-//   color: #aa82c8; /* Replace with your desired color for the p elements */
+//   color: #4EA72E; /* Replace with your desired color for the p elements */
 // }
 
 
-  /* Button styling */
 .btn {
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    font-weight: bold;
-    color: white;
-    background-color: #aa82c8;
-    border-radius: 5px;
-    text-decoration: none;
-    transition: background-color 0.3s ease;
-  }
-  
-  .btn:hover {
-    background-color: #9856ca;
-  }
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #4EA72E;
+  color: white; /* Text color for the button */
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #3b8f22; /* Optionally change the background on hover */
+  color: white; /* Keep the text color the same on hover */
+}
   
   .btn-home {
-    background-color: #aa82c8; /* Customize the color for the home button */
+    background-color: #4EA72E; /* Customize the color for the home button */
   }
   
   .btn-home:hover {
-    background-color: #9856ca;
+    background-color: #275317;
   }
 
 /* Scrollable gallery container with max-width */
