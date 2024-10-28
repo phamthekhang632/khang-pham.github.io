@@ -31,7 +31,7 @@ After the competition, I am working independently to triangulate animal sounds i
   </div>
 
   <div class="gallery-item">
-    <img src="{{ site.baseurl }}/assets/images/xprize_2.JPG" alt="xprize2">
+    <img src="{{ site.baseurl }}/assets/images/xprize_2.jpg" alt="xprize2">
     <p class="gallery-description">Sensor packages used in the Amazon.</p>
   </div>
 
@@ -41,12 +41,12 @@ After the competition, I am working independently to triangulate animal sounds i
   </div>
 
   <div class="gallery-item">
-    <img src="{{ site.baseurl }}/assets/images/xprize_4.JPG" alt="xprize6">
+    <img src="{{ site.baseurl }}/assets/images/xprize_4.JPG" alt="xprize4">
     <p class="gallery-description">Sensor packages used in Singapore.</p>
   </div>
 
   <div class="gallery-item">
-    <img src="{{ site.baseurl }}/assets/images/xprize_5.JPG" alt="xprize6">
+    <img src="{{ site.baseurl }}/assets/images/xprize_5.JPG" alt="xprize5">
     <p class="gallery-description">Preparing to survey the rainforest in Singapore.</p>
   </div>
 
@@ -56,17 +56,17 @@ After the competition, I am working independently to triangulate animal sounds i
   </div>
 
   <div class="gallery-item">
-    <img src="{{ site.baseurl }}/assets/images/xprize_7.JPG" alt="xprize4">
+    <img src="{{ site.baseurl }}/assets/images/xprize_7.jpg" alt="xprize7">
     <p class="gallery-description">Student team in Singapore post data collection period.</p>
   </div>
 
   <div class="gallery-item">
-    <img src="{{ site.baseurl }}/assets/images/xprize_8.JPG" alt="xprize4">
+    <img src="{{ site.baseurl }}/assets/images/xprize_8.JPG" alt="xprize8">
     <p class="gallery-description">IIT team post data collection period.</p>
   </div>
 
   <div class="gallery-item">
-    <img src="{{ site.baseurl }}/assets/images/xprize_9.JPG" alt="xprize4">
+    <img src="{{ site.baseurl }}/assets/images/xprize_9.jpg" alt="xprize9">
     <p class="gallery-description">Me and Drew (my roommate in Singapore) but in the Amazon this time !</p>
   </div>
 </div>
