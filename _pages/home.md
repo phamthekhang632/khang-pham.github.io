@@ -67,7 +67,7 @@ Here are some notes about projects I involved with over the year. If there is an
       <a href="{{ site.baseurl }}/dbf/">
         <div class="box">
           <div class="box-image">
-            <img src="{{ site.baseurl }}/assets/images/dbf_4.JPG" alt="Design/Build/Fly" style="max-height: 300px">
+            <img src="{{ site.baseurl }}/assets/images/dbf_4.jpg" alt="Design/Build/Fly" style="max-height: 300px">
           </div>
           <div class="box-content">
             <h3>AIAA Design/Build/Fly Competition</h3>
