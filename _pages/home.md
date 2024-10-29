@@ -107,7 +107,7 @@ Here are some notes about projects I involved with over the year. If there is an
       <a href="{{ site.baseurl }}/moon-landing/">
         <div class="box">
           <div class="box-image">
-            <img src="{{ site.baseurl }}/assets/images/moon-landing_environment.png" alt="XPRIZE Rainforest" style="max-height: 300px">
+            <img src="{{ site.baseurl }}/assets/images/moon-landing_environment.png" alt="Simulated environment." style="max-height: 300px">
           </div>
           <div class="box-content">
             <h3>Landing Space Shuttle using Deep Q-Learning</h3>
