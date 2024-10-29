@@ -21,7 +21,7 @@ Frequently, robots need to grab external objects, either to manipulate them or a
 My first task was manufacturing the gecko-like adhesive using old molds we had and inspecting them using a SEM, shown in figure above. After that, I am tasked to prototype a new gripper that apply shear force using horizontal rotation instead of vertical. This would help us in the future when we want to scale up the gripper and use more than one pair of adhesive pads.
 
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="{{ site.baseurl }}/assets/images/rotating-gripper-render.png" alt="XPRIZE Rainforest" style="max-width: 30%; height: auto; border-radius: 15px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);">
+  <img src="{{ site.baseurl }}/assets/images/rotating-gripper-render.png" alt="Horizontal rotating gripper." style="max-width: 30%; height: auto; border-radius: 15px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);">
 </div>
 
 <div style="text-align: center; margin-top: 30px;">
