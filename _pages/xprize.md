@@ -76,6 +76,7 @@ After the competition, I am working independently to triangulate animal sounds i
 - [XPRIZE Rainforest Competition](https://www.xprize.org/prizes/rainforest)
 - [Meet the tech projects competing for a $10m prize to save rainforests](https://news.mongabay.com/2023/06/meet-the-tech-projects-competing-for-a-10m-prize-to-save-rainforests/) (semifinals)
 - [At the ‘Biodiversity Olympics,’ scientists work to democratize rainforest tech](https://news.mongabay.com/2024/08/xprize-foundation-finals-rainforest-tech/) (finals)
+- [Morton Arboretum partners with IIT and Purdue in global rainforest competition](https://www.chicagotribune.com/2024/10/22/morton-arboretum-illinois-tech-purdue-rainforest-xprize-competition/)
 
 <div style="text-align: center; margin-top: 30px;">
   <a href="{{ site.baseurl }}/" class="btn btn-home">Back to Home</a>
